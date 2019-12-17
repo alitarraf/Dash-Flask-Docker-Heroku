@@ -18,3 +18,4 @@ https://medium.com/@ashok7067/containerise-your-python-flask-using-docker-and-de
 - `heroku container:login`
 - `heroku create yourawesomeapp`
 - `heroku container:push web --app yourawesomeapp`
+- `heroku container:release web --app yourawesomeapp`
