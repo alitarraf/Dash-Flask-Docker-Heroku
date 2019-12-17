@@ -1,5 +1,5 @@
 # DASH-Flask-Docker-Heroku
-Supporting code for the article to containerise a DASH Python Flask application using Docker and deploying it to Heroku
+Starter code to containerise a DASH Python Flask application using Docker and deploying it to Heroku
 
 # Steps
 - Create a simple DASH Flask Application
